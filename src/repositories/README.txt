@@ -1,0 +1,1 @@
+repositories -> Serve para lidar com as operações do banco na nossa aplicação

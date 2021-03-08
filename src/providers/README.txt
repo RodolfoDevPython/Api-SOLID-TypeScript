@@ -1,0 +1,1 @@
+Providers -> Serve para separar as integrações do repository(mas tem a mesma ideia)
